@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "kafka_queue"
+name = "kafka_events"
 version = "0.1.0"
 description = "ACA-Py Event to Kafka Bridge (Supported aries-cloudagent version: 0.12.1) "
 authors = ["Daniel Bluhm <dbluhm@pm.me>"]
